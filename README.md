@@ -4,7 +4,7 @@
 
 - <b>Microsoft Azure</b>
   - [Exploring Azure Storage and Resource Management](https://github.com/alexjimra906/create-resource)
-  - [Creating and Managing Virtual Machines and Network Traffic](https://github.com/alexjimra906/post-install-config)
+  - [Creating and Managing Virtual Machines and Network Traffic](https://github.com/alexjimra906/network-activities)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/alexjimra906/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/alexjimra906/post-install-config)
