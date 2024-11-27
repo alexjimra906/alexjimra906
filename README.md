@@ -5,10 +5,10 @@
 - <b>Microsoft Azure</b>
   - [Exploring Azure Storage and Resource Management](https://github.com/alexjimra906/create-resource)
   - [Creating and Managing Virtual Machines and Network Traffic](https://github.com/alexjimra906/network-activities)
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/alexjimra906/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/alexjimra906/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/alexjimra906/ticket-lifecycle)
+- <b>Building a Comprehensive Ticketing System with osTicket</b>
+  - [Setting Up osTicket from Scratch](https://github.com/alexjimra906/osticket-prereqs)
+  - [Customizing osTicket for Team Collaboration](https://github.com/alexjimra906/post-install-config)
+  - [Mastering Ticket Lifecycle Management in osTicket](https://github.com/alexjimra906/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/alexjimra906/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/alexjimra906/azure-network-protocols)
