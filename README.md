@@ -2,15 +2,15 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>Microsoft Azure Fundamentals</b>
+- <b>Exploring Azure and Networking Concepts</b>
   - [Exploring Azure Storage and Resource Management](https://github.com/alexjimra906/create-resource)
   - [Creating and Managing Virtual Machines and Network Traffic](https://github.com/alexjimra906/network-activities)
-- <b>Building a Comprehensive Ticketing System with osTicket</b>
+- <b>Implementing a Help Desk Ticketing System (osTicket) using Azure Virtual Machines</b>
   - [Setting Up osTicket from Scratch](https://github.com/alexjimra906/osticket-prereqs)
   - [Customizing osTicket for Team Collaboration](https://github.com/alexjimra906/post-install-config)
   - [Mastering Ticket Lifecycle Management in osTicket](https://github.com/alexjimra906/ticket-lifecycle)
 - <b>IT Administration with Azure</b>
-  - Active Directory Management and Security Enhancements
+  - Implementing Active Directory (On-Premises) in Azure
     - [Setting Up and Managing Active Directory](https://github.com/alexjimra906/managing-active-directory)
     - [Implementing and Troubleshooting Domain Services](https://github.com/alexjimra906/troubleshooting-domain-services)
     - [Security Enhancements and Account Management](https://github.com/alexjimra906/account-management)
